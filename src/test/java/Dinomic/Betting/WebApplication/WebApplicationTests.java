@@ -1,4 +1,4 @@
-package Dinomic.Betting.Web;
+package Dinomic.Betting.WebApplication;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

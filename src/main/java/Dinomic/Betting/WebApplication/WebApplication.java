@@ -1,4 +1,4 @@
-package Dinomic.Betting.Web;
+package Dinomic.Betting.WebApplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
